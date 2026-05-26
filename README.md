@@ -1,0 +1,5 @@
+# PyTorch implementation of "One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation"
+
+This is the official Python implementation of the ICML 2026 paper "One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation" (poster at ICML will be available [here](https://openreview.net/forum?id=3WTFzAFHr3)) by [Daniil Selikhanovych](https://scholar.google.com/citations?user=N9bInaYAAAAJ), [David Li](https://scholar.google.com/citations?user=L88Qc4YAAAAJ), [Aleksei Leonov](https://scholar.google.com/citations?user=gzj9nOcAAAAJ), [Nikita Gushchin](https://scholar.google.com/citations?user=UaRTbNoAAAAJ), [Sergei Kushneriuk](https://scholar.google.com/citations?user=D71CiiwAAAAJ), [Alexander Filippov](https://scholar.google.com/citations?user=fY5epnkAAAAJ), [Evgeny Burnaev](https://scholar.google.com/citations?user=pCRdcOwAAAAJ), [Iaroslav Koshelev](https://scholar.google.com/citations?user=gmaJRL4AAAAJ), [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ).
+
+Coming soon.
