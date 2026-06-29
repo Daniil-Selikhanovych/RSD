@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 main_distill.py --cfg_path ./configs/RSD.yaml --save_dir ./logs/RSD --exp_name rsd_distill_on_imagenet_x4

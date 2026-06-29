@@ -1,0 +1,7 @@
+data/*
+requirements.txt
+environment.yml
+weights/*
+__pycache__/*
+metrics_fold/*
+logs/*

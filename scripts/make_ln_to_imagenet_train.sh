@@ -1,0 +1,1 @@
+ln -s /gpfs/gpfs0/datasets/ImageNet/ILSVRC2012/train data/training/imagenet/train 
